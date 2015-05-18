@@ -6,9 +6,10 @@
 
 void SendData(void){
   
-         yeti puto
   
   
+  
+ return; 
 }
 
 /**
