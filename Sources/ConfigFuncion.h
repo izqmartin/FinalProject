@@ -1,8 +1,8 @@
+#include "Config.h"
+
+
 #ifndef _ConfigFuncion_h
 #define _ConfigFuncion_h
-#include <hidef.h> /* for EnableInterrupts macro */
-#include "derivative.h" /* include peripheral declarations */
-#include "Config.h"
 
 
 

@@ -1,5 +1,5 @@
-#include <hidef.h> /* for EnableInterrupts macro */
-#include "derivative.h" /* include peripheral declarations */
+//#include <hidef.h> /* for EnableInterrupts macro */
+//#include "derivative.h" /* include peripheral declarations */
 #include "Config.h"
 
 
