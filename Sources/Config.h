@@ -1,6 +1,5 @@
+#include "ConfigJM16.h"
 
-#include <hidef.h> /* for EnableInterrupts macro */
-#include "derivative.h" /* include peripheral declarations */
 
 #ifndef _Config_h
 #define _Config_h

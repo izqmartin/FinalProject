@@ -4,11 +4,4 @@
 
 */
 
-void SendData(void){
-  
-  
-  
-  
- return; 
-}
 
