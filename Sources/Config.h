@@ -1,7 +1,9 @@
+#include "ConfigJM16.h"
+
+
 #ifndef _Config_h
 #define _Config_h
-#include <hidef.h> /* for EnableInterrupts macro */
-#include "derivative.h" /* include peripheral declarations */
+
 
 //Definicion de tipos de datos
 #define uint8_t byte
